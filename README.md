@@ -5,4 +5,4 @@ Clustering - Clustering image with help of logatithmic correction based on some 
 Hopfield_NeuralNetwork - Network that is trained on 10x10 images. It\'s ability is to restore images if it possible.  
 Multilayer_Perceptron - Network that is trained on five 8x8 images. It\'s ability is to predict one of basic images by test image.
 
-Some images wich was used to test this projects are in the "Images" foldier. 
+Some images which was used to test this projects are in the "Images" foldier. 
